@@ -7,4 +7,4 @@ Jill Kuchman
 01 14 2016
 
 ###Description
-Testing git workflow
+Testing git workflow. Using Pivotal Git Scripts.
