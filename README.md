@@ -8,3 +8,4 @@ Jill Kuchman
 
 ###Description
 Testing git workflow. Using Pivotal Git Scripts. Another test.
+<hr />
